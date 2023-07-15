@@ -1,4 +1,4 @@
-/* @font-face {
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/* @font-face {
   font-family: Candyhome;
   src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/Candyhome.ttf);
   font-display: swap;
@@ -166,12 +166,14 @@
   }
   /* 页脚透明 */
   #footer {
-    background: transparent !important;
+    /*background: transparent !important;*/
+    background: url(/img/54c113ebc81f4430a868916823763247.jpg);
   }
   
   /* 头图透明 */
   #page-header {
-    background: transparent !important;
+    /*background: transparent !important;*/
+    background: url(/img/6c0acc8312754d5bac102f0e4e7376af.jpg);
   }
   
   #rightside > div > button {
